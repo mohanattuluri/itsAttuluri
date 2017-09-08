@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23546" started-at="2017-08-22T06:32:26Z" finished-at="2017-08-22T06:32:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23546" started-at="2017-08-22T06:32:26Z" finished-at="2017-08-22T06:32:49Z">
+      <class name="com.automation.testcases.InputFormSubmitPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="before" is-config="true" duration-ms="12382" started-at="2017-08-22T12:02:13Z" finished-at="2017-08-22T12:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="inputFormSubmitLaunch()[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="inputFormSubmitLaunch" duration-ms="9528" started-at="2017-08-22T12:02:26Z" finished-at="2017-08-22T12:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputFormSubmitLaunch -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="getResult" is-config="true" duration-ms="599" started-at="2017-08-22T12:02:35Z" finished-at="2017-08-22T12:02:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=inputFormSubmitLaunch status=SUCCESS method=InputFormSubmitPageTest.inputFormSubmitLaunch()[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="validatingFieldsData()[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="validatingFieldsData" duration-ms="1234" started-at="2017-08-22T12:02:36Z" finished-at="2017-08-22T12:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingFieldsData -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="getResult" is-config="true" duration-ms="66" started-at="2017-08-22T12:02:37Z" finished-at="2017-08-22T12:02:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatingFieldsData status=SUCCESS method=InputFormSubmitPageTest.validatingFieldsData()[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="enterInputFormDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="enterInputFormDetails" duration-ms="4869" started-at="2017-08-22T12:02:40Z" data-provider="DataSupply" finished-at="2017-08-22T12:02:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstName1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10/12/16]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1email@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9008001242]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[#163, FirstFlr, Doddanekundi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[California]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[This is Project Description1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterInputFormDetails -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="getResult" is-config="true" duration-ms="61" started-at="2017-08-22T12:02:45Z" finished-at="2017-08-22T12:02:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enterInputFormDetails status=SUCCESS method=InputFormSubmitPageTest.enterInputFormDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="enterInputFormDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="enterInputFormDetails" duration-ms="4433" started-at="2017-08-22T12:02:45Z" data-provider="DataSupply" finished-at="2017-08-22T12:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstName2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lastName2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1email@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[(900)800-1243]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[#163, FirstFlr, Doddanekundi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Delaware]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12346]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[This is Project Description2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterInputFormDetails -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="getResult" is-config="true" duration-ms="61" started-at="2017-08-22T12:02:49Z" finished-at="2017-08-22T12:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enterInputFormDetails status=SUCCESS method=InputFormSubmitPageTest.enterInputFormDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="inputFormTearDown()[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="inputFormTearDown" is-config="true" duration-ms="40" started-at="2017-08-22T12:02:49Z" finished-at="2017-08-22T12:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputFormTearDown -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.automation.testcases.InputFormSubmitPageTest@5f2050f6]" name="after" is-config="true" duration-ms="1151" started-at="2017-08-22T12:02:49Z" finished-at="2017-08-22T12:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.automation.testcases.InputFormSubmitPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
