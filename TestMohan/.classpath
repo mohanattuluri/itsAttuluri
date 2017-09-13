@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/derbyclient.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/eclipselink-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/flash-selenium.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/logging-selenium-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/selenium-java-client-driver.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/selenium-java-client-driver-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/selenium-java-client-driver-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/selenium-java-client-driver-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/selenium-server.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/selenium-server-coreless.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/selenium-server-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/testng.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Automation/Jars-3.4.0/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
